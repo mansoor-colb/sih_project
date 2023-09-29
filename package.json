@@ -1,0 +1,26 @@
+{
+  "name": "sih_project",
+  "version": "1.0.0",
+  "description": "Ai legal Assitant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mansoor-colb/sih_project.git"
+  },
+  "author": "Mansoor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mansoor-colb/sih_project/issues"
+  },
+  "homepage": "https://github.com/mansoor-colb/sih_project#readme",
+  "dependencies": {
+    "axios": "^1.5.1",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mongoose": "^7.5.3",
+    "openai": "^4.10.0"
+  }
+}
